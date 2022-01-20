@@ -1,7 +1,7 @@
 # Olá, tudo bem? Me chamo Rivaldo, muito prazer!
 
 - 🔭 Trabalhando como Analista Desenvolvedor, Desenvolvendo com Django.
-- 🌱 Estudando Java, Django e JS.
+- 🌱 Estudando Flutter, Java, Django e JS.
 
 <div>
   <a href="https://github.com/rivaldoagripino">
